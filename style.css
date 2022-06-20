@@ -103,7 +103,7 @@ body {
     padding: 40px;
   }
   .price {
-  border-bottom-left-radius: 0;
+  border-bottom-left-radius: 0px;
 }
 }
 footer p {
