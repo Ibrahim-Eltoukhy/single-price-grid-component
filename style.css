@@ -102,6 +102,9 @@ body {
     grid-column: 1 / 2;
     padding: 40px;
   }
+  .price {
+  border-bottom-left-radius: 0;
+}
 }
 footer p {
   text-align: center;
